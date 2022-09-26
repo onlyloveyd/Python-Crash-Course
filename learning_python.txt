@@ -1,0 +1,3 @@
+In Python you can random int
+In Python you can transform string to int
+In Python you can do add
